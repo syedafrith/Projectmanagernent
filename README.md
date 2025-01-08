@@ -36,5 +36,15 @@ Create new superuser with your username and password
 (venv)$ python manage.py createsuperuser
 ```
 
+Download and import the postman collection from https://github.com/syedafrith/Projectmanagernent/blob/main/TechForingAssessment.postman_collection.json
+
+Run the Django server
+
+```sh
+(venv)$ python manage.py runserver
+```
+
+
+
 
 
